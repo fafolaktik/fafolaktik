@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fafolaktik
 - 👀 I’m interested in making stuff and fixing stuff ...
-- 🌱 I’m currently learning python, node, php, c#, asp.NET
+- 🌱 I’m currently learning python, node, php, ts, arduino, esp32, etc.
 - 📫 How to reach me ... 
 
 <!---
