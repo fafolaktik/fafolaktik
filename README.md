@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fafolaktik
-- 👀 I’m interested in making stuff and fixing stuff ...
-- 🌱 I’m currently learning python, node, php, ts, arduino, esp32, etc.
-- 📫 How to reach me ... 
+- 👀 I’m interested in making stuff, breaking stuff and fixing stuff ...
+- 🌱 I’m currently working AI, python, node, php, ts, arduino, esp32, etc.
+
 
 <!---
 fafolaktik/fafolaktik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
